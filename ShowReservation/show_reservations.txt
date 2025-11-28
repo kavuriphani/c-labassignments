@@ -1,0 +1,15 @@
+GrandCinema|28-11-2025|N|Avengers: Endgame|250.00|1
+GrandCinema|28-11-2025|N|Avengers: Endgame|250.00|2
+GrandCinema|28-11-2025|N|Avengers: Endgame|250.00|3
+GrandCinema|28-11-2025|F|Inception|200.00|10
+GrandCinema|29-11-2025|S|Interstellar|220.00|15
+RoyalTheatre|28-11-2025|S|The Matrix|180.00|25
+RoyalTheatre|28-11-2025|S|The Matrix|180.00|26
+SmallCinema|28-11-2025|N|Comedy Night|100.00|50
+SmallCinema|28-11-2025|F|RomCom|120.00|5
+CityPlex|30-11-2025|N|Sci-Fi Blast|210.00|20
+CityPlex|30-11-2025|F|UUUU|120.00|13
+CityPlex|30-11-2025|F|UUUU|120.00|15
+CityPlex|30-11-2025|F|UUUU|120.00|14
+CityPlex|30-11-2025|F|UUUU|120.00|16
+CityPlex|30-11-2025|F|UUUU|120.00|17
